@@ -14,12 +14,25 @@
             
             <label for="email">Email: </label>
             <input type="email" id="email" placeholder="teresa@gmail.com">
-            <button>Save </button>
         </form>
         <form action="url" mathod="get">
-            <label for="comment">Comment:</label>
+            <select name="iron-city">
+                <option value="mad">Madrid</option>
+                <option value="bcn">Barcelona</option>
+                <option value="mia">Miami</option>
+                <option value="mex">Mexico City</option>
+                <option value="par">Paris</option>
+                <option value="ber">Berlin</option>
+                <option value="ams">Amsterdam</option>
+                <option value="sao">Sao Paulo</option>
+                <option value="lis">Lisbon</option>
+              </select>
+
+            <label for="comment">Habla sobre tu ciudad:</label>
             <textarea id="comment" name="comment" rows="3" cols="33"></textarea>
-            
+        </form>
+        <form action="/some-url" method="get">
+            <input type="submit" value="Save"/>
         </form>
 
     </body>
