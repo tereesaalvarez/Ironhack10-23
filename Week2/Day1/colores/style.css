@@ -1,0 +1,32 @@
+h1{
+    color: forestgreen;
+  }
+  
+  h2{
+    color: #008080;
+    background-color: orange;
+  }
+  
+  p{
+    color: rgb(70,130,180);
+  }
+  
+  #color1{
+    color: pink;
+  }
+  
+  #color2{
+    color: #2849;
+  }
+  
+  #color3{
+    color: rgb(30,54,27)
+  }
+  
+  body{
+    background-color: blue;
+  }
+  
+  div{
+    background-color: yellow;
+  }

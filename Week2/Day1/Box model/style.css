@@ -1,0 +1,49 @@
+div {
+    border: 3px solid;
+    width: 300px;
+    float: left;
+    
+}
+
+.div1{
+    height: 220px;
+    border-width: 3px;
+    background-color: grey;
+}
+
+.div2{
+    height: 94px;
+    border-color: rgb(255, 0, 0);
+    background-color: rgb(245, 79, 79);
+}
+
+.div3{
+    height: 108px;
+    border-color: green;
+    background-color: rgb(143, 255, 143);
+}
+
+.div4{
+    height: 160px;
+    border-color: blue;
+    background-color: rgb(124, 178, 236);
+
+}
+
+.div5{
+    height: 20px;
+    border-color: rgb(253, 87, 142);
+    background-color: rgb(247, 153, 173);
+}
+
+#col1, #col2 {
+    border-width: 0;
+}
+
+.margen-derecha{
+    margin-right: 20px
+}
+
+#margen-inferior{
+    margin-bottom: 20px;
+}
